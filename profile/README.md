@@ -43,7 +43,7 @@ While maintaining consistency, the design system will allow for flexibility and 
 
 ## Mantras
 
-- Keep is simple
+- Keep it simple
 - Consistency is key
 - Performance is king
 - Don't repeat yourself
